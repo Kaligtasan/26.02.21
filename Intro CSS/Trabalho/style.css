@@ -1,0 +1,19 @@
+p{
+    font-family: sans-serif;
+}
+
+#borboleta_1{
+    color: cyan;
+}
+
+#canarinho{
+    color: yellowgreen;
+}
+
+#tit{
+    font-style: italic;
+}
+
+.blog{
+    font-family: 'Courier New', Courier, monospace;
+}

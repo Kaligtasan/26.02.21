@@ -1,0 +1,29 @@
+.polemica h2{ /*apenas polemica junto com h2*/
+    background-color: red;
+}
+
+h2, p{ /*aplicar em dois seletores ao mesmo tempo*/
+    color: hotpink;
+    border-style: dotted; /*deixa as bordas a mostra, e pontilhadas*/
+    border-width: 2px;
+    border-left-color: blueviolet; /*muda o lado esquerdo apenas da borda*/
+    width: fit-content;
+}
+
+p{
+    color: green;
+}
+
+#tituloInicial{ /*seletor de id (só uma coisa específica é modificada*/
+    color: hotpink;
+}
+
+.special{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.destaque{
+    color: red;
+    font-family: cursive;
+}
